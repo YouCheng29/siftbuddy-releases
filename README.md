@@ -15,7 +15,8 @@ SiftBuddy 是 macOS 選單列的 GitHub 通知 app。這個 repo 只放安裝檔
 1. 到 [最新版](https://github.com/YouCheng29/siftbuddy-releases/releases/latest) 下載 `SiftBuddy-<版本>.zip`
 2. 核對校驗碼（見下）。不一致就不要解壓縮、不要打開，把檔案刪掉
 3. 雙擊 zip 解壓縮，得到 `SiftBuddy.app`
-4. 把 `SiftBuddy.app` 拖進「應用程式」資料夾。已經有舊版時選「取代」
+4. 已經裝了舊版：點選單列的 SiftBuddy 圖示，從齒輪選單選「結束 SiftBuddy」
+5. 把 `SiftBuddy.app` 拖進「應用程式」資料夾。已經有舊版時選「取代」
 
 ### 核對校驗碼
 
