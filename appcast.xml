@@ -1,6 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>SiftBuddy</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Thu, 29 Oct 2026 12:01:51 +0800</pubDate>
+            <link>https://github.com/YouCheng29/siftbuddy-releases</link>
+            <sparkle:version>0.3.0</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul>
+<li><b>新增</b>：app 會自己更新。有新版時跳出視窗，按「安裝更新項目」，下載完再按「安裝並重新啟動」。想馬上檢查，到 設定 → 一般 → 檢查更新…。這一版要手動裝一次，之後就不用了。</li>
+<li><b>改變</b>：下載頁搬到 github.com/YouCheng29/siftbuddy-releases。</li>
+<li><b>修正</b>：別人在 issue 或 PR 說明裡 @ 你，現在也算提及。</li>
+<li><b>修正</b>：看板的團隊欄位被刪掉或改名後，會通知整個看板，和設定畫面寫的一樣。以前只通知指派給你的卡片。</li>
+<li><b>修正</b>：標成已讀的卡片不會先往回滑一下才消失。</li>
+<li><b>改善</b>：隱藏一張單後，10 秒內可以按「復原」或「查看已隱藏」。「只看未讀」清單是空的時，會告訴你藏了幾張已讀的卡片。</li>
+<li><b>改善</b>：關掉「同事的卡片」時，清單會切回「只有我」，「含團隊進度」也不會出現。</li>
+<li><b>常見問題</b>：逐題對照程式修正，回答改得更短。</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/YouCheng29/siftbuddy-releases/releases/download/v0.3.0/SiftBuddy-0.3.0.zip" length="5899997" type="application/octet-stream" sparkle:edSignature="vtriLGB395ITMfhpI3RZuzqHboi1SD3M6h4O71OtlKioAj8g/X/2XoEY0SK6wU9vOjxMXZp+FTA7ixqxe+qEBw=="/>
+        </item>
     </channel>
 </rss>
